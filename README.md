@@ -171,21 +171,3 @@ There are not so many things which can go wrong. Check:
 2. You do have python 2.7, toolchains docker etc.
 3. You have enough space to checkout and build all the things. At least 5-6 GB for docker images and 500 MB for pupy.
 4. From time to time some python deps may become broken. In such case try to use version from repo.
-
-## Development
-
-If some of you want to participate to pupy development, don't hesitate ! All help is greatly appreciated and I will review every pull request.
-
-Also there is small [note](pupy/DEVELOPMENT.md) about development. Please run flake8 before doing any commits.
-File with config is [here](pupy/tox.ini).
-
-## Contact
-
-by mail: contact@n1nj4.eu
-on Twitter: [Follow me on twitter](https://twitter.com/n1nj4sec)
-
-This project is a [personal development](https://en.wikipedia.org/wiki/Personal_development), please respect its philosophy and don't use it for evil purposes!
-
-## Special thanks
-
-Special thanks to all contributors that helps me improve pupy and make it an even better tool ! :)
